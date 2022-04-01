@@ -1,4 +1,4 @@
-## Oi!!! Eu sou o João Vitor Pereira, desenvolvedor, estudante e amante de café
+## Olá, eu sou o João Vitor Pereira, desenvolvedor, estudante e amante de café!
 
 - 💻 Estagiário de TI no SAAE - Serviço Autônomo de Água e Esgoto
 - 📚 Estudante de Sistemas de Informação (7º período)
