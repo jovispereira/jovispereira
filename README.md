@@ -1,8 +1,7 @@
-## Olá!!! Eu sou o João Vitor Pereira
+## Oi!!! Eu sou o João Vitor Pereira, desenvolvedor, estudante e amante de café
 
 - 💻 Estagiário de TI no SAAE - Serviço Autônomo de Água e Esgoto
 - 📚 Estudante de Sistemas de Informação (7º período)
-- 📫 Contate-me no e-mail jv_silvap@hotmail.com
 
 <div align="center">
   <a href="https://github.com/jovispereira">
