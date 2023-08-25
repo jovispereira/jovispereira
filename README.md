@@ -1,7 +1,7 @@
-## Olá, eu sou o João Vitor Pereira, desenvolvedor, estudante e amante de café!
+## Olá, eu sou o João Vitor Pereira, desenvolvedor, monitor e amante de café!
 
-- 💻 Estagiário de Front-end na Alura
-- 📚 Estudante de Sistemas de Informação (8º período)
+- 💻 Monitor Front-end na Alura
+- 🎓 Bacharel em Sistemas de Informação
 
 <div align="center">
   <a href="https://github.com/jovispereira">
